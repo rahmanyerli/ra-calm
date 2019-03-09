@@ -1,0 +1,49 @@
+{
+	"name": "ra-calm",
+	"displayName": "Ra Calm",
+	"description": "Here is the best theme for your eye care!",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Calm",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ra-calm.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-calm"
+	},
+	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#181818",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark theme",
+		"vscode, dark theme",
+		"ra",
+		"ra calm theme",
+		"ra calm",
+		"racalm",
+		"ra-calm",
+		"ra calm theme"
+	]
+}
